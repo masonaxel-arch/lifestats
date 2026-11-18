@@ -1,0 +1,35 @@
+{
+  "name": "LifeStats - Your Lifetime Stat Sheet",
+  "short_name": "LifeStats",
+  "description": "Your viral lifetime stat sheet and live friend-group leaderboard.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": [
+    "lifestyle",
+    "social",
+    "utilities"
+  ]
+}
